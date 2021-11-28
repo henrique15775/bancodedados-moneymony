@@ -19,13 +19,6 @@
     {
       "url_moeda": "USD-BRL",
       "id": 5
-    },
-    {
-      "url_moeda": "BTC-ARS",
-      "id": 6
-    },
-    {
-      "id": 7
     }
   ],
   "mensagens": []
